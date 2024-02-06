@@ -7,7 +7,5 @@ resources:
 images:
 - name: x-image
   newName: wericknalyson/gitopslanlink
-  newTag: 26af07c5e50f00d59d7179f7db0fbfc898d07f26
-
-
+  newTag: 11e9dfb1ed54f723af193356469d52d8b341124f
 namespace: bla
