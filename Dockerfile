@@ -5,6 +5,7 @@ WORKDIR /app
 COPY ./server .
 
 RUN npm install
+RUN echo "server"
 
 EXPOSE 3000
 
