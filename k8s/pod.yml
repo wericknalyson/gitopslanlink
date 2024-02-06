@@ -1,0 +1,18 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: gitopslanlink
+spec:
+  selector:
+    matchLabels:
+      app: gitopslanlink
+  template:
+    metadata:
+      labels:
+        app: gitopslanlink
+    spec:
+      containers:
+      - name: gitopslanlink
+        image: wericknalyson/gitopslanlink
+        ports:
+        - containerPort: 3000
