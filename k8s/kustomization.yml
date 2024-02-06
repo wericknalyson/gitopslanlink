@@ -8,3 +8,6 @@ images:
 - name: x-image
   newName: wericknalyson/gitopslanlink
   newTag: 26af07c5e50f00d59d7179f7db0fbfc898d07f26
+
+
+namespace: bla
