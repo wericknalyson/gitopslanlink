@@ -7,4 +7,4 @@ resources:
 images:
 - name: x-image
   newName: wericknalyson/gitopslanlink
-  newTag: 59700c3c3245a7efce7c9b5d23f8ef94949583c8
+  newTag: b2a0fc5855464db817fa3be4ba603fa9ba6945a0
